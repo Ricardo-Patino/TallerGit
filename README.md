@@ -1,2 +1,2 @@
-# TallerGit
+# Taller-Git
 Taller-Git-Fidelitas
